@@ -1,1 +1,1 @@
-[a link](https://github.com/user/repo/blob/branch/index.html)
+[a link](https://github.com/AllistarBl/metaplex_store/blob/main/index.html)
